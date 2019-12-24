@@ -1,0 +1,4 @@
+/home/tr/Documents/delaunay/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tr/Documents/delaunay/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tr/Documents/delaunay/cmake-build-debug/CMakeFiles/delaunay2.dir
+/home/tr/Documents/delaunay/cmake-build-debug/CMakeFiles/delaunay.dir
